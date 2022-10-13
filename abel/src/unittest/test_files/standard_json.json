@@ -1,0 +1,6 @@
+{
+    "STR": "REGISTER",
+    "DBL": 5,
+    "BOOL": true,
+    "LIST": [100, "R2D2", null]
+}

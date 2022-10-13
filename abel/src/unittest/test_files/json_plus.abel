@@ -1,0 +1,12 @@
+# This comment line is neglected
+# Comment lines in the following are neglected, too
+{
+    "TEXT1": "REGISTER",
+    "INT1": 5,         # Integer
+    "DBL1": 0.2,       # Double
+    "DBL2": 0.52e+10,  # Double
+    "CPL1": 0.1+2.0j,  # Complex
+    "CPL2": .01j,      # Complex
+    "BOOL": true,      # Bool
+    "LIST": [100, "R2D2", null]
+}
